@@ -31,4 +31,6 @@
 </html>
 ```
 
-![Ergebnis](./01_html_result.html)
+[Ergebnis in neuem Tab öffnen](./01_html_result.html)
+
+<iframe src="./01_html_result.html" width="100%"></iframe>
