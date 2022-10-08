@@ -31,4 +31,4 @@
 </html>
 ```
 
-![Ergebnis](./01_html_result.hmtl)
+![Ergebnis](./01_html_result.html)
