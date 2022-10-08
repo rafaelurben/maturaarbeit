@@ -9,3 +9,4 @@ Die Maturaarbeit ist zurzeit nocht nicht verfügbar.
 ## Beispiele
 
 - [Beispiel 1 - «HTML Beispiel»](examples/01_html.md)
+- [Beispiel 2 - «CSS Beispiel»](examples/02_css.md)
