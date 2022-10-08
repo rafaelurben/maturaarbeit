@@ -31,6 +31,6 @@
 </html>
 ```
 
-<a href="./01_html_result.html">Ergebnis in neuem Tab öffnen</a>
+<a href="./01_html_result.html" target="_blank">Ergebnis in neuem Tab öffnen</a>
 
 <iframe src="./01_html_result.html" width="100%"></iframe>
