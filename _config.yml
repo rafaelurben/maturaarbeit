@@ -1,4 +1,6 @@
 title: Rafaels Maturaarbeit
 remote_theme: pages-themes/cayman@v0.2.0
+view_home_url: true
+view_github_url: false
 plugins:
 - jekyll-remote-theme
