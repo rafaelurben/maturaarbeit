@@ -5,14 +5,14 @@
 <html>
 
 <head>
-	<title>JavaScript Beispiel</title>
-	<script>
-		function updateName() {
-			let name = document.getElementById('name').value;
-			let paragraph = document.getElementById('mytext');
-			paragraph.innerText = `Hallo ${name}!`;
-		}
-	</script>
+    <title>JavaScript Beispiel</title>
+    <script>
+        function updateName() {
+            let name = document.getElementById('name').value;
+            let paragraph = document.getElementById('mytext');
+            paragraph.innerText = `Hallo ${name}!`;
+        }
+    </script>
 </head>
 
 <body>
