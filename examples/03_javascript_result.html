@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>JavaScript Beispiel</title>
+    <script>
+        function updateName() {
+            let name = document.getElementById('name').value;
+            let paragraph = document.getElementById('mytext');
+            paragraph.innerText = `Hallo ${name}!`;
+        }
+    </script>
+</head>
+
+<body>
+    <p id="mytext">Hallo!</p>
+    <input type="text" placeholder="Dein Name" id="name" />
+    <button onclick="updateName()">Klick mich!</button>
+</body>
+
+</html>
