@@ -18,9 +18,9 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">Rafaels Maturaarbeit</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-      {% if site.view_home_url %}
+      {% if site.view_home_url %}{% unless page.url == "/" %}
         <a href="{{ '/' | relative_url }}" class="btn">Zur Startseite</a>
-      {% endif %}
+      {% endunless %}{% endif %}
       {% if site.view_github_url %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
