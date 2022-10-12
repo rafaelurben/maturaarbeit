@@ -5,6 +5,8 @@
     <title>JavaScript Beispiel</title>
     <script>
         function updateName() {
+            // Frage den Inhalt des Inputfeldes ab und füge ihn in
+            // das Paragraph-Element ein
             let name = document.getElementById('name').value;
             let paragraph = document.getElementById('mytext');
             paragraph.innerText = `Hallo ${name}!`;

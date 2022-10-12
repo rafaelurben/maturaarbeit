@@ -7,6 +7,7 @@
 <head>
     <title>CSS Beispiel</title>
     <style>
+        /* CSS-Kommentar (unsichtbar) */
         #title {
             color: #0087ff;
         }
