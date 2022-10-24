@@ -4,7 +4,9 @@ Willkommen auf der Übersichtsseite meiner Maturaarbeit. Hier findest du alle In
 
 ## Maturaarbeit
 
-Die Maturaarbeit ist zurzeit nocht nicht verfügbar.
+Die Maturaarbeit kann hier heruntergeladen/angesehen werden:
+
+- [Maturaarbeit v1.0](./assets/maturaarbeit-v1.0.pdf) (in Arbeit)
 
 ## Das Projekt
 
