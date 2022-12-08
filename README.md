@@ -6,6 +6,10 @@ Willkommen auf der Übersichtsseite meiner Maturaarbeit. Hier findest du alle In
 
 Die Maturaarbeit kann [hier gelesen und heruntergeladen](./assets/maturaarbeit-v1.2.pdf) werden.
 
+## Präsentation
+
+Die gekürzte Maturaarbeitspräsentation kann [hier angesehen und heruntergeladen](./assets/praesentation-v1.3.pdf) werden.
+
 ## Das Projekt
 
 Die erstellte App («Teamized») kann unter [app.rafaelurben.ch/teamized](https://app.rafaelurben.ch/teamized) angesehen und verwendet werden.
